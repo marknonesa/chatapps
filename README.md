@@ -3,7 +3,8 @@
 1. Download the files then extract in a folder.
 2. Open in code editor (e.g VScode).
 3. Open VScode Terminal (or your preferred code editor terminal).
-4. Change directory to api ("\chatapps-main> cd api").
+4. Change directory to api ("\chatapps-main> cd api"). ![image](https://user-images.githubusercontent.com/39289957/234757642-3c5ed7d0-4e4e-46aa-8092-0196bce8d4cd.png)
+
 5. Once in api run "npm install express"
 6. Then run "nodemon index.js"
 
