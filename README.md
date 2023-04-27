@@ -20,18 +20,11 @@
 
 10. Run "yarn dev" and click "Local" (copy paste the local to a browser).
 
-	e.g
-
-	  VITE v4.2.2  ready in 355 ms
-
-	  ➜  Local:   http://localhost:5173/
-	  ➜  Network: use --host to expose
-	  ➜  press h to show help
-	  
-	  ![image](https://user-images.githubusercontent.com/39289957/234757496-257ab697-2ba9-4e83-9163-79bb6c7cdee9.png)
+	![image](https://user-images.githubusercontent.com/39289957/234758299-d0da05e4-41ba-43bb-a5ae-12a9fbfa604b.png)
 
 
 10. Copy paste the "local" to another browser (e.g Firefox or just open Guest in Chrome).  You should have 2 localhost address opened in two different browsers.
+![image](https://user-images.githubusercontent.com/39289957/234758493-944b047d-204a-442a-ab15-73db29f1ac9b.png)
 
 11. Once you are in the Login(or Register) page, click Register (for new users).
 12. Type desired "Username" and "Password"
