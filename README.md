@@ -29,8 +29,14 @@
 11. Once you are in the Login(or Register) page, click Register (for new users).
 12. Type desired "Username" and "Password"
 13. Repeat step 11 & 12 on the other browser.
+![image](https://user-images.githubusercontent.com/39289957/234759118-c272759f-b83a-4f72-9f01-6b1e0d2fbbaf.png)
 
-14. Before sending messages go to code editor and open Chat.jsx (client > src > Chat.jsx) and save it (ctrl s)
+
+14. Before sending messages go to code editor and open Chat.jsx (client > src > Chat.jsx) and save it (ctrl s) 
+![image](https://user-images.githubusercontent.com/39289957/234759243-a55dd251-f37c-4c15-944b-a3173bc0f2c2.png)
+![image](https://user-images.githubusercontent.com/39289957/234759282-53a36c53-e8e7-4e08-a475-710a067117cc.png)
+
+
 15. Once Logged in, click the user and type in message in the message box and press enter or click the send icon.
 16. In the other browser click the user and check if messages have been recieved. *In case messages is not going throught real time try step # 14.
 17. Try sending an attachment.
