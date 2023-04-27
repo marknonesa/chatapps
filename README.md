@@ -5,17 +5,16 @@
 3. Open VScode Terminal (or your preferred code editor terminal).
 4. Change directory to api ("\chatapps-main> cd api"). ![image](https://user-images.githubusercontent.com/39289957/234757642-3c5ed7d0-4e4e-46aa-8092-0196bce8d4cd.png)
 
-5. Once in api run "npm install express"
+5. Once in api run "npm install express" ![image](https://user-images.githubusercontent.com/39289957/234757914-3a5793e8-a31b-4645-9b69-a2c2f9d48e5f.png)
+
 6. Then run "nodemon index.js"
 
-	Terminal should look like this
+	![image](https://user-images.githubusercontent.com/39289957/234758023-0269c000-07d0-4ac2-8bdf-2d96986a1cc2.png)
 
-	"[nodemon] starting `node index.js`
-	 Connected Successfully"
 	
 7. Open another terminal and Change directory to client folder
 
-	"cd client" ("\chatapps-main> cd client").
+	![image](https://user-images.githubusercontent.com/39289957/234758088-95a6ec36-0523-4d6d-b08e-385c98397f0e.png)
 
 8. Run (or install) "npm i" ("chatapps-main\client> npm i")
 9. Run "yarn dev" and click "Local" (copy paste the local to a browser).
