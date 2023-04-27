@@ -42,6 +42,9 @@
 
 16. In the other browser click the user and check if messages have been recieved. *In case messages is not going throught real time try step # 14.
 17. Try sending an attachment.
+![image](https://user-images.githubusercontent.com/39289957/234760258-9727c994-e2b8-46c2-9c3e-aafe66144086.png)
+
+
 18. Try Logging out and relogging in using the same credentials (using Login) or create another users by clicking Register.
 
 
