@@ -30,13 +30,13 @@ e.g
 10. Copy paste the "local" to another browser (e.g Firefox or just open Guest in Chrome). 
 You should have 2 localhost address opened in two different browsers.
 
-11. Once you are in the Login page, click Register (for new users).
+11. Once you are in the Login(or Register) page, click Register (for new users).
 12. Type desired "Username" and "Password"
 13. Repeat step 11 & 12 on the other browser.
 
 14. Before sending messages go to code editor and open Chat.jsx (client > src > Chat.jsx) and save it (ctrl s)
 15. Once Logged in, click the user and type in message in the message box and press enter or click the send icon.
-16. In the other browser click the user and check if messages have been recieved. *In case messages is not going throught real time, try step # 14.
+16. In the other browser click the user and check if messages have been recieved. *In case messages is not going throught real time try step # 14.
 17. Try sending an attachment.
 18. Try Logging out and relogging in using the same credentials (using Login) or create another users by clicking Register.
 
