@@ -26,6 +26,9 @@
 	  ➜  Local:   http://localhost:5173/
 	  ➜  Network: use --host to expose
 	  ➜  press h to show help
+	  
+	  ![image](https://user-images.githubusercontent.com/39289957/234757496-257ab697-2ba9-4e83-9163-79bb6c7cdee9.png)
+
 
 10. Copy paste the "local" to another browser (e.g Firefox or just open Guest in Chrome).  You should have 2 localhost address opened in two different browsers.
 
