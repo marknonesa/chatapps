@@ -38,6 +38,8 @@
 
 
 15. Once Logged in, click the user and type in message in the message box and press enter or click the send icon.
+![image](https://user-images.githubusercontent.com/39289957/234760068-80550c3c-4293-402d-bc57-d3b617781d53.png)
+
 16. In the other browser click the user and check if messages have been recieved. *In case messages is not going throught real time try step # 14.
 17. Try sending an attachment.
 18. Try Logging out and relogging in using the same credentials (using Login) or create another users by clicking Register.
