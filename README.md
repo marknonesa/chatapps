@@ -19,16 +19,15 @@
 8. Run (or install) "npm i" ("chatapps-main\client> npm i")
 9. Run "yarn dev" and click "Local" (copy paste the local to a browser).
 
-e.g
-	
-  VITE v4.2.2  ready in 355 ms
+	e.g
 
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose
-  ➜  press h to show help
+	  VITE v4.2.2  ready in 355 ms
 
-10. Copy paste the "local" to another browser (e.g Firefox or just open Guest in Chrome). 
-You should have 2 localhost address opened in two different browsers.
+	  ➜  Local:   http://localhost:5173/
+	  ➜  Network: use --host to expose
+	  ➜  press h to show help
+
+10. Copy paste the "local" to another browser (e.g Firefox or just open Guest in Chrome).  You should have 2 localhost address opened in two different browsers.
 
 11. Once you are in the Login(or Register) page, click Register (for new users).
 12. Type desired "Username" and "Password"
