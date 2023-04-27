@@ -16,8 +16,9 @@
 
 	![image](https://user-images.githubusercontent.com/39289957/234758088-95a6ec36-0523-4d6d-b08e-385c98397f0e.png)
 
-8. Run (or install) "npm i" ("chatapps-main\client> npm i")
-9. Run "yarn dev" and click "Local" (copy paste the local to a browser).
+8. Run (or install) "npm i" ("chatapps-main\client> npm i") ![image](https://user-images.githubusercontent.com/39289957/234758174-0d72bdc4-972f-46cc-987a-9280951f4106.png)
+
+10. Run "yarn dev" and click "Local" (copy paste the local to a browser).
 
 	e.g
 
